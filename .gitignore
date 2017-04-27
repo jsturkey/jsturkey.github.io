@@ -1,4 +1,5 @@
 _site
+<<<<<<< HEAD
 _sample_posts
 .DS_Store
 *.sublime-project
@@ -8,3 +9,7 @@ node_modules
 Gemfile.lock
 .sass-cache
 *.gem
+=======
+.sass-cache
+.jekyll-metadata
+>>>>>>> fba8e5ac033145a63b5138ec7d315ff28d540d22
